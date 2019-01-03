@@ -1,4 +1,4 @@
-try{if(Ext == undefined) var Ext = require('../ext-all');}catch(e){}
+try{if(Ext == undefined) var Ext = require('./ext-all');}catch(e){}
 Ext.onReady(function () {
     var parseCodes;
 
