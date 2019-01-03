@@ -1,11 +1,4 @@
-/**
- * Simplified Chinese translation
- * By DavidHu
- * 09 April 2007
- *
- * update by andy_ghg
- * 2009-10-22 15:00:57
- */
+try{var Ext = require('../ext-all');}catch(e){}
 Ext.onReady(function () {
     var parseCodes;
 
